@@ -104,3 +104,6 @@ jupyter notebook Swiggy_Workshop.ipynb
 ## 📄 License
 
 This project is for educational purposes. Dataset is synthetically generated.
+
+## Author 
+J.Harshavardhan
